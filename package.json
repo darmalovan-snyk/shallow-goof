@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "qs": "6.0.4",
-    "node-uuid": "1.4.6",
+    "node-uuid": "1.4.8",
     "semver": "4"
   }
 }
